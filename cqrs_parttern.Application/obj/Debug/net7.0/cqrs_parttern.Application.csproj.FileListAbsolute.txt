@@ -1,0 +1,17 @@
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Application.deps.json
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Application.runtimeconfig.json
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Application.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Application.pdb
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Domain.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\bin\Debug\net7.0\cqrs_parttern.Domain.pdb
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.csproj.AssemblyReference.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.AssemblyInfoInputs.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.AssemblyInfo.cs
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.csproj.CoreCompileInputs.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_par.82EB4216.Up2Date
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\refint\cqrs_parttern.Application.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.pdb
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\cqrs_parttern.Application.genruntimeconfig.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Application\obj\Debug\net7.0\ref\cqrs_parttern.Application.dll

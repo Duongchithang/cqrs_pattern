@@ -1,0 +1,14 @@
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\bin\Debug\net7.0\cqrs_parttern.Domain.deps.json
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\bin\Debug\net7.0\cqrs_parttern.Domain.runtimeconfig.json
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\bin\Debug\net7.0\cqrs_parttern.Domain.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\bin\Debug\net7.0\cqrs_parttern.Domain.pdb
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.csproj.AssemblyReference.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.AssemblyInfoInputs.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.AssemblyInfo.cs
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.csproj.CoreCompileInputs.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\refint\cqrs_parttern.Domain.dll
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.pdb
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\cqrs_parttern.Domain.genruntimeconfig.cache
+E:\Data\Workspace\.NET\cqrs_parttern\cqrs_parttern.Domain\obj\Debug\net7.0\ref\cqrs_parttern.Domain.dll

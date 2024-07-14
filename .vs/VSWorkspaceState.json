@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cqrs_parttern.Application",
+    "\\cqrs_parttern.Domain",
+    "\\WebAPI"
+  ],
+  "SelectedNode": "\\WebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
